@@ -11,5 +11,5 @@ Furthermore, for the mismatches after 31 May, the distances between the requeste
 offered waypoints are mostly within a reasonable threshold. Over 90% of the offered waypoints are within 50m of the user's 
 requested waypoint. This is a reasonable threshold given that the mean length of buildings in Singapore is approximately 
 50m (calculated using the 2019 Singapore building footprint data from data.gov.sg). Hence, though some users may receive mismatches,
-it may not necessarily be a cause of concern since the offered waypoint is likely to be in the vicinity. 
+it may not necessarily be a cause of concern since the offered waypoint is likely to be in the vicinity (ie at the neighbouring building). 
 '''
